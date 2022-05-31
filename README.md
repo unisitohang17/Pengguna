@@ -12,21 +12,6 @@ Tanggal Pembuatan : 30 Mei 2022 <br>
 Download Aplikasi Pada Link Berikut, Kemudian Instal Pada Android Anda <br>
 Link : <a href="https://bit.ly/apkpengguna">Klik disini </a>
 
-### Dengan npm atau expo
-
-1. Clone repository ini dengan menjalankan perintah berikut <br>
-
-   ```
-   $ git clone https://github.com/unisitohang17/kontak.git
-
-2. Install npm, kemudian jalankan perintah berikut pada cmd <br>
-   ```
-   $ cd AwesomeProject
-   ```
-   ```
-   $ npm start
-   ```
-
 ## Deskripsi Aplikasi
 
 Aplikasi dibuat menggunakan framework Flutter Mobile dengan bantuan API Users yang ada di <a href="https://reqres.in/"> </a>. Aplikasi merupakan bentuk sederhana yang dapat melihat list user dan juga informasi detail user tersebut. <br>
